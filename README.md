@@ -20,7 +20,7 @@
 ![Desktop Screenshot 2023 10 25 - 17 29 09 59](https://github.com/hipster-x/Lab-1/assets/145153023/6d8aae5d-0e27-4d74-9861-cf581b930286)
 ![Desktop Screenshot 2023 10 25-](https://github.com/hipster-x/Lab-1/assets/145153023/707304e4-9b96-4547-851b-575e3d5843ac)
 # Включение двухфакторной аутентификации в Keycloack!
-[Desktop Screenshot 2023 10 25 - 16 44 46 98](https://github.com/hipster-x/Lab-1/assets/145153023/3ce32e55-c99f-48a7-8d19-0bec1bb4cbda)
+![Desktop Screenshot 2023 10 25 - 16 44 46 98](https://github.com/hipster-x/Lab-1/assets/145153023/3ce32e55-c99f-48a7-8d19-0bec1bb4cbda)
 ![Desktop Screenshot 2023 10 25 - 16 51 37 52](https://github.com/hipster-x/Lab-1/assets/145153023/09fd2667-5a41-4669-b3af-88c0e27874dd)
 ![Desktop Screenshot 2023 10 25 - 16 51 49 41](https://github.com/hipster-x/Lab-1/assets/145153023/b369f574-bade-4c4a-8546-5a239d35e378)
 # Страница настройки 2FA
