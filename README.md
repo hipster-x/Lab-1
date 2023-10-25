@@ -26,5 +26,7 @@
 # Страница настройки 2FA
 <img width="491" alt="Desktop 2023 10 25 - 1" src="https://github.com/hipster-x/Lab-1/assets/145153023/842dae84-48a8-4213-9d5a-2f57fcae95de">
 
+
 # Аунтификация OTP 
-![Descktop Screenshot 2023 10 25 - 2](https://github.com/hipster-x/Lab-1/assets/145153023/f0e7eff3-2ee3-4737-b99e-1bf40e806199)
+![Descktop Screenshot 2023 10 25 - 2](https://github.com/hipster-x/Lab-1/assets/145153023/f0cd1872-8b6b-4eeb-ad9b-920cd3004e6f)
+
